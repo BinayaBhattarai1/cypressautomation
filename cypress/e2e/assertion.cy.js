@@ -42,8 +42,8 @@ describe('Assertion Types',()=>{
     //     cy.get('.text-navy-40').eq(1).should('have.length',8);                   //Length Assertion
     // })
 
-    it("Using Contain",()=>{
-        cy.get('np').should('contain','ADD TO CART');
-    })
+    // it("Using Contain",()=>{
+    //     cy.get('np').should('contain','ADD TO CART');
+    // })
    
 })

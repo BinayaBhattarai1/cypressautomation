@@ -5,7 +5,7 @@ module.exports = defineConfig({
   viewportWidth:1920,
 
   e2e: {
-    baseUrl:"http://172.31.1.20:9999",
+    baseUrl:"http://172.31.1.20",
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
