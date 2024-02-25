@@ -1,0 +1,16 @@
+[
+    {
+        "case":"Verify login functionality with wrong credentials",
+        "username":"nagarikk",
+        "password":"nagarikk",
+        "locator":".toast-bottom-right toast-container",
+        "expectedOutcome":"Username or password wrong"
+    },
+    {
+        "case":"Verify login functionality with valid credentials",
+        "username":"nagarik",
+        "password":"nagarik",
+        "locator":".font-bold",
+        "expectedOutcome":"Banking Portal"
+    }
+]

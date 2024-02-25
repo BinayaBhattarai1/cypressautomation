@@ -1,0 +1,27 @@
+
+[{
+    "case":"Verify login with valid data",
+    "username":"nagarik",
+    "password":"nagarik1"
+  },
+  {
+    "case":"Verify login with valid data",
+    "username":"nagarik",
+    "password":"nagarik1"
+  },
+  {
+    "case":"Verify login with valid data",
+    "username":"nagarik",
+    "password":"nagarik1"
+  },
+  {
+    "case":"Verify login with valid data",
+    "username":"nagarik",
+    "password":"nagarik1"
+  },
+  {
+    "case":"Verify login with valid data",
+    "username":"nagarik",
+    "password":"nagarik1"
+  }
+]

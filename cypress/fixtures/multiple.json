@@ -1,0 +1,12 @@
+[
+    {
+        "case":"Login with one data in fixture",
+        "Username" : "admin ",
+        "Password" : "admin"
+    },
+    {
+        "Username" : "Shirish Mainali ",
+        "Password" : "$hirish@1234"
+    }
+    
+]
